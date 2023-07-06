@@ -30,7 +30,7 @@ function App() {
       <div className="containerInput">
         <input
           type="text"
-          placeholder="Digite seu CEP..."
+          placeholder="Digite algum CEP..."
           value={input}
           onChange={(e) => setInput(e.target.value)}
         />
@@ -48,7 +48,9 @@ function App() {
           <span>Rua: {cep.logradouro}</span>
         </main>
       )}
-
+      <footer>
+        Site desenvolvido por <a target='_blank' href="https://github.com/httpjef">Jeferson Luís</a>
+      </footer>
     </div>
   );
 }
