@@ -1,5 +1,7 @@
 # Buscador de CEP 🌐
 
+## [Clique aqui para acessar o App](https://buscador-cep-httpjef.vercel.app)
+
 Um buscador de CEP (Código de Endereçamento Postal) desenvolvido com React e TypeScript.
 
 ## Tecnologias Utilizadas 🚀
